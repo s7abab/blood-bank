@@ -4,5 +4,4 @@ const testController = (req, res)=>{
         success: true,
     });
 }
-
 module.exports = {testController}
